@@ -121,7 +121,7 @@
     <tr>
       <td>전체</td>
       <td>2026.07-</td>
-      <td>15기 서울캠퍼스 실습코치<br><ul><li>공통PJT 서울 7반</li></ul></td>
+      <td>15기 서울캠퍼스 실습코치<br><ul><li>공통PJT 서울 7반</li><li>특화PJT 서울 6반</li></li></ul></td>
     </tr>
   </tbody>
 </table>
