@@ -52,7 +52,7 @@
 |RoomInCode|2026.01-2026.02|팀장, 프론트엔드|Vue.JS<br>TypeScript|실시간 턴제 코딩 배틀 게임 웹 서비스|
 |Sweet Delivery|2026.02-2026.03|팀원, 클라이언트 개발|Unity 6<br>Mirror|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|
 |GummyGom Delivery|2026.04-2026.05|팀장, 클라이언트 개발|Unity 6<br>Mirror<br>Steamworks SDK|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|
-|[Homestead](https://github.com/kys-0602/Homestead "Homestead")|2026.08|개인|C++, DirectX 11, Codex|Codex로 진행한 **에이전틱 엔지니어링** 게임 개발 프로젝트|
+|[Homestead](https://github.com/kys-0602/Homestead "Homestead")|2026.08|개인|C++<br>DirectX 11<br>Codex|Codex로 진행한 **에이전틱 엔지니어링** 게임 개발 프로젝트|
 
 [📁 프로젝트 인사이트 확인하러 가기](https://github.com/kys-0602/project-insights "📁 프로젝트 인사이트")
 
